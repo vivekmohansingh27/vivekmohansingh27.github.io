@@ -47,13 +47,18 @@ body {
 
 }
 
+#resume111{
+    background-color: #080808;
+    color: #fff;
+}
+
 .navbar .menu .li {
     list-style: none;
     display: inline-block;
 }
 
 .navbar .menu li a {
-    color: #fff;
+    color: #2b2828;
     /* color: #ff004f; */
     font-size: 18px;
     font-weight: 500;
@@ -469,7 +474,7 @@ form .btn2 {
     left: 0;
     right: 0;
     border-radius: 15px;
-    color: #fff;
+    color: #1c1b1b;
 }
 
 #resume-link-1{
