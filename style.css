@@ -480,7 +480,9 @@ form .btn2 {
 #resume-link-1{
     font-size: 20px;
 }
-
+#resume-button-1 #resume-link-1{
+    background-color: transparent;
+}
 #contact-phone ,#contact-email{
     text-decoration: none;
     color: #ff004f;
